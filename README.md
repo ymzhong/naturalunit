@@ -17,7 +17,7 @@ In particle physics, people set *c* = *hbar* = *k<sub>B</sub>* = *ε<sub>0</sub>
 
 
 ## Useful unit in astrophysics
-* Gravitational constant G = 6.67e−11 m<sup>3</sup>kg<sup>−1</sup>s<sup>−2</sup> = 6.67e−8 cm<sup>3</sup>g<sup>−1</sup>s<sup>−2</sup>  =4.30e−6 kpc M<sub>⊙</sub> <sup>−1</sup>(km/s)<sup>2</sup>  =4.30e−3 pc M<sub>⊙</sub><sup>−1</sup>(km/s)<sup>2</sup> = (1.22e19 GeV)<sup>−2</sup>
+* Gravitational constant G = 6.67e−11 m<sup>3</sup>kg<sup>−1</sup>s<sup>−2</sup> = 6.67e−8 cm<sup>3</sup>g<sup>−1</sup>s<sup>−2</sup>  = 4.30e−6 kpc M<sub>⊙</sub> <sup>−1</sup>(km/s)<sup>2</sup>  = 4.30e−3 pc M<sub>⊙</sub><sup>−1</sup>(km/s)<sup>2</sup> = (1.22e19 GeV)<sup>−2</sup>
 * Hubble parameter H<sub>0</sub> = 100 *h* km sec<sup>−1</sup> Mpc<sup>−1</sup> = 2.13e−42 *h* GeV
 = (2997.9)<sup>−1</sup> *h* Mpc<sup>−1</sup> = (3.0857e17)<sup>−1</sup> *h* sec<sup>−1</sup> = (9.7778)<sup>−1</sup> *h* Gyr<sup>−1</sup>
 * 1 year = 3.16e7 sec = 4.79e31 GeV<sup>−1</sup>
@@ -43,7 +43,7 @@ In particle physics, people set *c* = *hbar* = *k<sub>B</sub>* = *ε<sub>0</sub>
 * 1 ton·day = 7.36e58
 * 1 ton·year = 2.69e61
 
-* Critical density ρ<sub>crit</sub> = 3H<sub>0</sub><sup>2</sup>/(8πG) = 1.88e−26 *h*<sup>2</sup> kg m<sup>−3</sup> = 1.88e−29 *h*<sup>2</sup> g cm<sup>−3</sup> = 8.10e47 *h*<sup>2</sup> GeV<sup>4</sup> = 1.05e4 *h*<sup>2</sup> eV cm<sup>−3</sup> = 2.78e-7 *h*<sup>2</sup> M<sub>⊙</sub> pc<sup>−3</sup> ≈ (0.003h<sup>0.5</sup> eV)<sup>4</sup> ≈ (2.5e−3 eV)<sup>4</sup>
+* Critical density ρ<sub>crit</sub> = 3H<sub>0</sub><sup>2</sup>/(8πG) = 1.88e−26 *h*<sup>2</sup> kg m<sup>−3</sup> = 1.88e−29 *h*<sup>2</sup> g cm<sup>−3</sup> = 8.10e47 *h*<sup>2</sup> GeV<sup>4</sup> = 1.05e4 *h*<sup>2</sup> eV cm<sup>−3</sup> = 2.78e-7 *h*<sup>2</sup> M<sub>⊙</sub> pc<sup>−3</sup> ≈ (0.003h<sup>1/2</sup> eV)<sup>4</sup> ≈ (2.5e−3 eV)<sup>4</sup>
 * Vacuum energy density ρ<sub>vaccum</sub> = 5.96e−27kg m<sup>−3</sup> = 2.56e-11 eV<sup>4</sup> = (0.00225 eV)<sup>4</sup>
 * Cosmological constant Λ = 1.11e−52 m<sup>−2</sup> = 4.33e−66 eV<sup>2</sup>
 
