@@ -43,7 +43,7 @@ In particle physics, people set *c* = *hbar* = *k<sub>B</sub>* = *ε<sub>0</sub>
 * 1 ton·day = 7.36e58
 * 1 ton·year = 2.69e61
 
-* Critical density ρ<sub>crit</sub> = 3H<sub>0</sub><sup>2</sup>/(8πG) = 1.88e−26 *h*<sup>2</sup> kg m<sup>−3</sup> = 1.88e−29 *h*<sup>2</sup> g cm<sup>−3</sup> = 8.10e47 *h*<sup>2</sup> GeV<sup>4</sup> = 1.05e4 *h*<sup>2</sup> eV cm<sup>−3</sup> = 2.78e-7 *h*<sup>2</sup> M<sub>⊙</sub> pc<sup>−3</sup> ≈ (0.003h<sup>1/2</sup> eV)<sup>4</sup> ≈ (2.5e−3 eV)<sup>4</sup>
+* Critical density ρ<sub>crit</sub> = 3H<sub>0</sub><sup>2</sup>/(8πG) = 1.88e−26 *h*<sup>2</sup> kg m<sup>−3</sup> = 1.88e−29 *h*<sup>2</sup> g cm<sup>−3</sup> = 8.10e47 *h*<sup>2</sup> GeV<sup>4</sup> = 1.05e4 *h*<sup>2</sup> eV cm<sup>−3</sup> = 2.78e-7 *h*<sup>2</sup> M<sub>⊙</sub> pc<sup>−3</sup> ≈ (0.003 *h*<sup>1/2</sup> eV)<sup>4</sup> ≈ (2.5e−3 eV)<sup>4</sup>
 * Vacuum energy density ρ<sub>vaccum</sub> = 5.96e−27kg m<sup>−3</sup> = 2.56e-11 eV<sup>4</sup> = (0.00225 eV)<sup>4</sup>
 * Cosmological constant Λ = 1.11e−52 m<sup>−2</sup> = 4.33e−66 eV<sup>2</sup>
 
