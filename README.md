@@ -1,6 +1,6 @@
 # Natural Unit in Particle Physics
 
-In particle physics, people set *c* = *hbar* = *k<sub>B</sub>* = *ε<sub>0</sub>* = *μ<sub>0</sub>* = 1 (hence the elementary charge *e* = (4πα)<sup>1/2</sup>) and express other units in terms of the units of energy, such as eV (~energy of the visible light), keV (~temperature of the Sun), MeV (~electron mass), and GeV (~nucleon mass). Such setup manifests the importance of relativity and quantum physics. The following relations between SI units and natural units may be helpful for practitioners.
+In particle physics, people set *c* = *hbar* = *k<sub>B</sub>* = *ε<sub>0</sub>* = *μ<sub>0</sub>* = 1 (hence the elementary charge *e* = (4πα)<sup>1/2</sup> ≈ 0.303) and express other units in terms of the units of energy, such as eV (~energy of the visible light), keV (~temperature of the Sun), MeV (~electron mass), and GeV (~nucleon mass). Such setup manifests the importance of relativity and quantum physics. The following relations between SI units and natural units may be helpful for practitioners.
 
 ## Basic unit conversion
 | SI unit → Natural unit      | Natural unit → SI unit |
@@ -53,7 +53,7 @@ In particle physics, people set *c* = *hbar* = *k<sub>B</sub>* = *ε<sub>0</sub>
 
 | SI unit → Natural unit      | Natural unit → SI unit |
 | :---        |    :---   |
-| 1 Coulomb = 1.89e18 | 1e of charge = 1.60e−19 Coulomb |
+| 1 Coulomb = 1.89e18 | 1*e* of charge = 1.60e−19 Coulomb |
 | 1 Ampere = 1.24 keV | 1 keV of electric current = 0.804 Ampere |
 | 1 Volt = 3.30 eV | 1 eV of electric potential = 0.303 Volt |
 | 1 Volt/m = 6.52e−7 eV<sup>2</sup> | 1 eV<sup>2</sup> of electric field strength = 1.54e6 Volt/m|
