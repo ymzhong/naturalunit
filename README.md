@@ -32,13 +32,13 @@ In particle physics, people set *c* = *hbar* = *k<sub>B</sub>* = *ε<sub>0</sub>
 * GM<sub>⊕</sub> = 3.99e5 km<sup>3</sup> s<sup>−2</sup>
 * Stefan–Boltzmann constant σ = π<sup>2</sup>kB<sup>4</sup> /(60 hbar<sup>3</sup>c<sup>2</sup>) = 0.164
 
-* Thomson cross section σ<sub>T</sub> = 8πα<sup>2</sup>/3me</sub><sup>2</sup> = 6.65e−25 cm<sup>2</sup>
+* Thomson cross section σ<sub>T</sub> = 8πα<sup>2</sup>/3m<sub>e</sub></sub><sup>2</sup> = 6.65e−25 cm<sup>2</sup>
 * 1 GeV<sup>−2</sup> = 0.389 mb = 3.89e8 pb = 3.89e−28 cm<sup>2</sup> 
 * 1 cm<sup>2</sup> = 1e24 barn = 1e27 mb = 1e36 pb = 1e39 fb
 * 1 cm<sup>−2</sup>s<sup>−1</sup> = 1e-33 nb<sup>−1</sup>s<sup>−1</sup> ≈ 1e-32 fb<sup>−1</sup>yr<sup>-1</sup>
 * 1 GeV cm<sup>-3</sup> = 2.63e-2 M<sub>⊙</sub> pc<sup>−3</sup> = 2.63e7 M<sub>⊙</sub>kpc<sup>−3</sup> = 7.68e−42 GeV<sup>4</sup>
 * 1 M<sub>⊙</sub>kpc<sup>−3</sup> = 3.80e−8 GeV cm<sup>−3</sup> = 2.92e−49 GeV<sup>4</sup>
-* 1 cm<sup>2</sup>g<sup>-1</sup> = 1.78e−24 cm<sup>2</sup>GeV<sup>-1</sup> = 4578.213 GeV<sup>−3</sup> = 2.09−4 pc<sup>2</sup> M<sub>⊙</sub><sup>-1</sup> 
+* 1 cm<sup>2</sup>g<sup>-1</sup> = 1.78e−24 cm<sup>2</sup>GeV<sup>-1</sup> = 4.58e3 GeV<sup>−3</sup> = 2.09−4 pc<sup>2</sup> M<sub>⊙</sub><sup>-1</sup> 
 * 1 e·cm = 1.53e13 GeV<sup>−1</sup>
 * 1 ton·day = 7.36e58
 * 1 ton·year = 2.69e61
