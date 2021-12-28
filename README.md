@@ -17,7 +17,7 @@ In particle physics, people set *c* = *hbar* = *k<sub>B</sub>* = *ε<sub>0</sub>
 
 
 ## Useful unit in astrophysics
-* Gravitational constant G = 6.67e−11 m<sup>3</sup>kg<sup>−1</sup>s<sup>−2</sup> = 6.67e−8 cm<sup>3</sup>g<sup>−1</sup>s<sup>−2</sup>  = 4.30e−6 kpc M<sub>⊙</sub> <sup>−1</sup>(km/s)<sup>2</sup>  = 4.30e−3 pc M<sub>⊙</sub><sup>−1</sup>(km/s)<sup>2</sup> = (1.22e19 GeV)<sup>−2</sup>
+* Gravitational constant G = 6.67e−11 m<sup>3</sup>kg<sup>−1</sup>s<sup>−2</sup> = 6.67e−8 cm<sup>3</sup>g<sup>−1</sup>s<sup>−2</sup>  = 4.30e−6 kpc M<sub>⊙</sub><sup>−1</sup>(km/s)<sup>2</sup>  = 4.30e−3 pc M<sub>⊙</sub><sup>−1</sup>(km/s)<sup>2</sup> = (1.22e19 GeV)<sup>−2</sup>
 * Hubble parameter H<sub>0</sub> = 100 *h* km sec<sup>−1</sup> Mpc<sup>−1</sup> = 2.13e−42 *h* GeV
 = (2997.9)<sup>−1</sup> *h* Mpc<sup>−1</sup> = (3.0857e17)<sup>−1</sup> *h* sec<sup>−1</sup> = (9.7778)<sup>−1</sup> *h* Gyr<sup>−1</sup>
 * 1 year = 3.16e7 sec = 4.79e31 GeV<sup>−1</sup>
@@ -37,7 +37,7 @@ In particle physics, people set *c* = *hbar* = *k<sub>B</sub>* = *ε<sub>0</sub>
 * 1 cm<sup>2</sup> = 1e24 barn = 1e27 mb = 1e36 pb = 1e39 fb
 * 1 cm<sup>−2</sup>s<sup>−1</sup> = 1e-33 nb<sup>−1</sup>s<sup>−1</sup> ≈ 1e-32 fb<sup>−1</sup>yr<sup>-1</sup>
 * 1 GeV cm<sup>-3</sup> = 2.63e-2 M<sub>⊙</sub> pc<sup>−3</sup> = 2.63e7 M<sub>⊙</sub>kpc<sup>−3</sup> = 7.68e−42 GeV<sup>4</sup>
-* 1 M<sub>⊙</sub>kpc<sup>−3</sup> = 3.80e−8 GeV cm<sup>−3</sup> = 2.92e−49 GeV<sup>4</sup>
+* 1 M<sub>⊙</sub> kpc<sup>−3</sup> = 3.80e−8 GeV cm<sup>−3</sup> = 2.92e−49 GeV<sup>4</sup>
 * 1 cm<sup>2</sup>g<sup>-1</sup> = 1.78e−24 cm<sup>2</sup>GeV<sup>-1</sup> = 4.58e3 GeV<sup>−3</sup> = 2.09−4 pc<sup>2</sup> M<sub>⊙</sub><sup>-1</sup> 
 * 1 e·cm = 1.53e13 GeV<sup>−1</sup>
 * 1 ton·day = 7.36e58
