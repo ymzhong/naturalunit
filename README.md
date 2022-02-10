@@ -23,11 +23,14 @@ In particle physics, people set *c* = *hbar* = *k<sub>B</sub>* = *ε<sub>0</sub>
 * 1 year = 3.16e7 sec = 4.79e31 GeV<sup>−1</sup>
 * 1 M<sub>⊙</sub> = 1.99e30 kg = 1.99e33 g = 1.12e57 GeV
 * 1 L<sub>⊙</sub> = 3.83e33 erg/s = 3.83e26 J/s = 1.57e12 GeV<sup>2</sup>
-* 1 pc = 3.09e16 m = 1.56e32 GeV<sup>−1</sup> = 1.56e23 eV<sup>−1</sup>
-* 1 kpc = 3.09e19 m 
-* 1 Mpc = 3.09e22 m 
+* 1 M<sub>⊕</sub> = 5.97e24 kg = 5.97e27 g = 3.35e51 GeV
+* Earth radius = 6.37e6 m = 3.23e22 GeV<sup>−1</sup>
 * 1 AU = 1.50e11 m 
 * 1 light year = 9.46e15 m ≈ (1/3) pc
+* 1 pc = 3.09e16 m = 1.56e32 GeV<sup>−1</sup> = 1.56e23 eV<sup>−1</sup>
+* 1 kpc = 3.09e19 m 
+* 1 Mpc = 3.09e22 m
+* Distance to the Galactic center = 8.5 kpc = 1.33e36 GeV<sup>−1</sup>
 * GM<sub>⊙</sub> = 1.33e11 km<sup>3</sup> s<sup>−2</sup> 
 * GM<sub>⊕</sub> = 3.99e5 km<sup>3</sup> s<sup>−2</sup>
 * Stefan–Boltzmann constant σ = π<sup>2</sup>kB<sup>4</sup> /(60 hbar<sup>3</sup>c<sup>2</sup>) = 0.164
