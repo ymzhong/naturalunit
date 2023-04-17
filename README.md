@@ -1,6 +1,6 @@
 # Everything in Natural Unit (High-Energy Physics)
 
-In high-energy physics, people set *c* = *hbar* = *k<sub>B</sub>* = *ε<sub>0</sub>* = *μ<sub>0</sub>* = 1 (hence the elementary charge *e* = (4πα)<sup>1/2</sup> ≈ 0.303) and express other units in terms of the units of energy, such as eV (~energy of the visible light), keV (~temperature of the Sun), MeV (~electron mass), and GeV (~nucleon mass). Such setup manifests the importance of relativity and quantum physics. The following relations between SI units and natural units may be helpful for practitioners.
+In high-energy physics, scholars frequently adopt a convention where certain fundamental constants are set equal to one: *c* = *hbar* = *k<sub>B</sub>* = *ε<sub>0</sub>* = *μ<sub>0</sub>* = 1 (hence the elementary charge *e* = (4πα)<sup>1/2</sup> ≈ 0.303) and express other quantities in terms of the units of energy, such as eV (~energy of the visible light), keV (~temperature of the Sun), MeV (~electron mass), and GeV (~nucleon mass). This system of units manifests the significance of relativity and quantum physics. Familiarizing oneself with the relationships between the International System of Units (SI) and these natural units can be beneficial for practitioners in the field.
 
 ## Basic unit conversion
 | SI unit → Natural unit      | Natural unit → SI unit |
