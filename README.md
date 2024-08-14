@@ -10,7 +10,7 @@ In high-energy physics, scholars frequently adopt a convention where certain fun
 | 1 kg = 5.61e26 GeV   | 1 GeV of mass = 1.78e−27 kg        |
 | 1 sec = 1.52e24 GeV<sup>−1</sup> | 1 GeV<sup>−1</sup> of time = 6.58e−25 sec ≈ (2/3)e−24 sec | 
 | 1 Hz = 6.58e−16 eV | 1 eV of angular frequency = 1.52e15 Hz [*E*=ℏ*ω*]| 
-| |  1 eV of normal frequency = 9.55e15 Hz [*E*=2𝛑ℏ*f*]|
+| |  1 eV of normal frequency = 2.42e14 Hz [*E*=2𝛑ℏ*f*]|
 | 1 K = 8.62e−5 eV | 1 eV of temperature = 1.16e4 K |
 | 1 J = 6.24e9 GeV | 1 GeV of energy = 1.60e−10 J |
 | 1 erg = 6.24e2 GeV | 1 GeV of energy = 1.60e−3 erg |
