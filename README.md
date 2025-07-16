@@ -55,7 +55,7 @@ In high-energy physics, scholars frequently adopt a convention where certain fun
 * The background dark matter density today ρ<sub>bkg,DM</sub> = 1.3 keV cm<sup>−3</sup> = 1e-11 eV<sup>4</sup>
 * The local dark matter density ρ<sub>local,DM</sub> = 0.4 GeV cm<sup>−3</sup> = 0.01 M<sub>⊙</sub> pc<sup>−3</sup> = (0.04 eV)<sup>4</sup>
 * The photon number density today *n*<sub>γ0</sub> = 411 cm<sup>−3</sup>
-* The relic neutrino number density today *n*<sub>ν0</sub> = 3×2×56 cm<sup>−3</sup> = 3×(3/11)*n*<sub>γ0</sub>
+* The relic neutrino number density today *n*<sub>ν0</sub> = 3·2·56 cm<sup>−3</sup> = 3·(3/11)·*n*<sub>γ0</sub>
 
 ## Useful unit conversion in electromagnetism
 
