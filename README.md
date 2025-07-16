@@ -33,8 +33,8 @@ In high-energy physics, scholars frequently adopt a convention where certain fun
 * 1 kpc = 3.09e19 m 
 * 1 Mpc = 3.09e22 m
 * Distance to the Galactic center = 8.5 kpc = 1.33e36 GeV<sup>−1</sup>
-* GM<sub>⊙</sub> = 1.33e11 km<sup>3</sup> s<sup>−2</sup> 
-* GM<sub>⊕</sub> = 3.99e5 km<sup>3</sup> s<sup>−2</sup>
+* GM<sub>⊙</sub> = 1.33e11 km<sup>3</sup> s<sup>−2</sup> = (1.3e-10 eV)<sup>−1</sup>
+* GM<sub>⊕</sub> = 3.99e5 km<sup>3</sup> s<sup>−2</sup> = (4.4e-5 eV)<sup>−1</sup>
 * Stefan–Boltzmann constant σ = π<sup>2</sup>kB<sup>4</sup> /(60 hbar<sup>3</sup>c<sup>2</sup>) = 0.164
 
 * Thomson cross section σ<sub>T</sub> = 8πα<sup>2</sup>/3m<sub>e</sub></sub><sup>2</sup> = 6.65e−25 cm<sup>2</sup>
