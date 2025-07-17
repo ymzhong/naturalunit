@@ -49,7 +49,7 @@ In high-energy physics, scholars frequently adopt a convention where certain fun
 * 1 ton·year = 2.69e61
 * Atomic binding energy = α<sup>2</sup> m<sub>e</sub> = 27 eV
 
-* Critical density ρ<sub>crit</sub> = 3H<sub>0</sub><sup>2</sup>/(8πG) = 1.88e−26 *h*<sup>2</sup> kg m<sup>−3</sup> = 1.88e−29 *h*<sup>2</sup> g cm<sup>−3</sup> = 8.10e47 *h*<sup>2</sup> GeV<sup>4</sup> = 1.05e4 *h*<sup>2</sup> eV cm<sup>−3</sup> = 2.78e-7 *h*<sup>2</sup> M<sub>⊙</sub> pc<sup>−3</sup> ≈ (0.003 *h*<sup>1/2</sup> eV)<sup>4</sup> ≈ (2.5 meV)<sup>4</sup>
+* Critical density ρ<sub>crit</sub> = 3H<sub>0</sub><sup>2</sup>/(8πG) = 1.88e−26 *h*<sup>2</sup> kg m<sup>−3</sup> = 1.88e−29 *h*<sup>2</sup> g cm<sup>−3</sup> = 8.10e47 *h*<sup>2</sup> GeV<sup>4</sup> = 1.05e4 *h*<sup>2</sup> eV cm<sup>−3</sup> = 2.78e-7 *h*<sup>2</sup> M<sub>⊙</sub> pc<sup>−3</sup> ≈ (0.003 *h*<sup>1/2</sup> eV)<sup>4</sup> ≈ (2.5 meV)<sup>4</sup> = 1.3e11 M<sub>⊙</sub> Mpc<sup>−3</sup> = 5.1 protons m<sup>−3</sup>
 * Vacuum energy density ρ<sub>vaccum</sub> = 5.96e−27 kg m<sup>−3</sup> = 2.56e-11 eV<sup>4</sup> = (2.25 meV)<sup>4</sup>
 * Cosmological constant Λ = 1.11e−52 m<sup>−2</sup> = 4.33e−66 eV<sup>2</sup>
 * The background dark matter density today ρ<sub>bkg,DM</sub> = 1.3 keV cm<sup>−3</sup> = 1e-11 eV<sup>4</sup>
